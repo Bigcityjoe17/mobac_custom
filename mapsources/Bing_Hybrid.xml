@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+<name>Microsoft- Hybrid</name>
+<minZoom>0</minZoom>
+<maxZoom>19</maxZoom>
+<tileType>PNG</tileType>
+<tileUpdate>IfNoneMatch</tileUpdate>
+<url>http://ecn.dynamic.t2.tiles.virtualearth.net/comp/ch/{$q}?mkt=en-us&amp;it=A,G,L&amp;shading=hill&amp;n=z&amp;cb=1</url>
+<backgroundColor>#000000</backgroundColor>
+</customMapSource> 

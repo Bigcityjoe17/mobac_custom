@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+<name>Microsoft- Virtual Earth</name>
+<minZoom>0</minZoom>
+<maxZoom>19</maxZoom>
+<tileType>PNG</tileType>
+<tileUpdate>IfNoneMatch</tileUpdate>
+<url>http://a0.ortho.tiles.virtualearth.net/tiles/a{$q}.jpg?g=45</url>
+<backgroundColor>#000000</backgroundColor>
+</customMapSource> 
